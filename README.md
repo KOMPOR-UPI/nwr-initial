@@ -1,2 +1,2 @@
 # nwr-initial
-Ini adalah repository sementara K.143.22.14
+Ini adalah repository pertama K.143.22.14
